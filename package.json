@@ -1,0 +1,12 @@
+{
+  "jspm": {
+    "directories": {
+      "lib": ".",
+      "packages": "jspm_packages"
+    },
+    "dependencies": {
+      "dogfalo/materialize": "github:dogfalo/materialize@^0.95.2/js/bin/materialize",
+      "jquery": "github:components/jquery@^2.1.3"
+    }
+  }
+}
